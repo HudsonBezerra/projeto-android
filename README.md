@@ -20,7 +20,7 @@ Este projeto é um website informativo que explora a **curiosa história por tr�
 
 ## Como Visualizar
 
-Para visualizar o projeto, basta abrir o arquivo `https://hudsonbezerra.github.io/projeto-android/` em seu navegador de preferência.
+Para visualizar o projeto, basta copiar e colar o link `https://hudsonbezerra.github.io/projeto-android/` em seu navegador de preferência.
 
 ## Créditos
 
